@@ -35,7 +35,7 @@
 #include <asm/io.h>
 #include <asm/uaccess.h>
 #include <asm/pgtable.h>
-
+#include <linux/uaccess.h>
 
 /* == General definitions ============================================== */
 

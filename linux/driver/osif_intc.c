@@ -37,6 +37,7 @@
 #include <linux/of_irq.h>
 #include <asm/io.h>
 #include <asm/uaccess.h>
+#include <linux/uaccess.h>
 
 /*
  * Register definitions as offset from base address
